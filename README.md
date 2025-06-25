@@ -7,7 +7,7 @@ This folder contains some of my data science and machine learning projects done 
 ## Projects Included
 
 - Titanic Survival Prediction
-- [Add your other project names here]
+- [ Upcoming : project names ]
 
 Each project is organized in its own subfolder with all related notebooks, scripts, and resources.
 
